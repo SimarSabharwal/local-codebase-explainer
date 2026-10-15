@@ -1,0 +1,4 @@
+streamlit>=1.40,<2
+requests>=2.32,<3
+pathspec>=0.12,<2
+chromadb>=0.6,<2
